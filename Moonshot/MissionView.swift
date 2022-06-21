@@ -68,7 +68,7 @@ struct Mission_View: View {
                                         Image(crewMember.astronaut.id)
                                             .resizable()
                                             .frame(width: 104, height: 72)
-                                            .clipShape(Capsule())
+                                            .clipShape(Circle())
                                             .overlay(
                                                 Circle()
                                                     .strokeBorder(.white, lineWidth: 1)
