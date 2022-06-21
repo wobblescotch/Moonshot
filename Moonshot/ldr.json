@@ -1,0 +1,14 @@
+[
+	{
+		"id": "cook",
+		"name": "Tim Cook",
+		"role": "Chief Executive Officer",
+		"description": "Tim Cook is the CEO of Apple and serves on its board of directors.\n\nBefore being named CEO in August 2011, Tim was Apple’s chief operating officer and was responsible for all of the company’s worldwide sales and operations, including end-to-end management of Apple’s supply chain, sales activities, and service and support in all markets and countries. He also headed Apple’s Macintosh division and played a key role in the continued development of strategic reseller and supplier relationships, ensuring flexibility in response to an increasingly demanding marketplace.\n\nPrior to joining Apple, Tim was vice president of Corporate Materials for Compaq and was responsible for procuring and managing all of Compaq’s product inventory.\n\nPrevious to his work at Compaq, Tim was the chief operating officer of the Reseller Division at Intelligent Electronics.\n\nTim also spent 12 years with IBM, most recently as director of North American Fulfillment where he led manufacturing and distribution functions for IBM’s Personal Computer Company in North and Latin America.\n\nTim earned an MBA from Duke University, where he was a Fuqua Scholar, and a Bachelor of Science degree in Industrial Engineering from Auburn University."
+	},
+	{
+		"id": "adams",
+		"name": "Katherine Adams",
+		"role": "Senior Vice President and Senior Counsel"
+		"description": "Katherine Adams is Apple’s general counsel and senior vice president of Legal and Global Security, reporting to CEO Tim Cook. Kate serves on the company’s executive team and oversees all legal matters, including corporate governance, intellectual property, litigation and securities compliance, global security and privacy. Kate joined Apple from Honeywell in 2017, where she worked for 14 years, most recently as senior vice president and general counsel. At Honeywell, Kate was in charge of the organization’s global legal strategy across more than 100 countries.\n\nPrior to joining Honeywell, Kate was a partner at Sidley Austin LLP in New York. Earlier in her career, she served as a law clerk for Supreme Court Justice Sandra Day O’Connor; as trial attorney for the United States Department of Justice, Appellate Section, Environment and Natural Resources division; and as law clerk for Stephen Breyer, then chief judge of the US Court of Appeals for the First Circuit.\n\nKate earned a bachelor’s degree in Comparative Literature from Brown University and a law degree from the University of Chicago Law School."
+	}
+]
